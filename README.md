@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=800&color=D9BED1&width=620&lines=Hello%2C+I'm+Ankit+Chaubey;I+enjoy+playing+with+code+out+of+curiosity;APIs+%7C+Automation+%7C+Systems+%7C+Telegram+%7C+Webs" alt="Ankit Chaubey"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=800&color=D9BED1&width=620&lines=Hello%2C+I'm+Ankit+Chaubey+—+also+known+as+Vasu;I+enjoy+playing+with+code+out+of+curiosity;APIs+%7C+Automation+%7C+Systems+%7C+Telegram+%7C+Webs" alt="Ankit Chaubey"/>
   </a>
 </p>
 
@@ -10,9 +10,9 @@
 
 ## 👋 Hey there! I'm Ankit Chaubey 🎉 <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-chaubey" alt="ankit-chaubey" />
 
-I'm a college student from **India 🇮🇳**.
+I'm Vasu (nickname), a college student from **India 🇮🇳**.
 
-- **Still learning:** Python, Go, C, C++
+- **Currently learning:** Python, Go, C, C++
 - Curious about systems, APIs, automation, and low-level tooling  
 - I mostly play with code in my free time driven by curiosity, experimentation, and a bit of healthy distraction 😄  
 
