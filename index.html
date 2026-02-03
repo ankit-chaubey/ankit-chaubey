@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ankit Chaubey</title>
+  <meta name="description" content="Ankit Chaubey — curiosity-driven learner. Systems, APIs, automation, and low-level tooling." />
+
+  <!-- Basic SEO -->
+  <meta name="author" content="Ankit Chaubey" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://ankit-chaubey.github.io/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Ankit Chaubey — Systems, APIs & Automation" />
+  <meta property="og:description" content="Curiosity-driven learner exploring systems, APIs, automation, and low-level tooling." />
+  <meta property="og:url" content="https://ankit-chaubey.github.io/" />
+  <meta property="og:image" content="https://avatars.githubusercontent.com/u/85471319?v=4" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Ankit Chaubey" />
+  <meta name="twitter:description" content="Systems, APIs, automation, and low-level tooling." />
+  <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/85471319?v=4" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #0f172a;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --accent: #38bdf8;
+      --border: #1f2937;
+    }
+
+    body.light {
+      --bg: #f8fafc;
+      --panel: #ffffff;
+      --text: #0f172a;
+      --muted: #475569;
+      --accent: #0284c7;
+      --border: #e5e7eb;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto;
+      background: radial-gradient(1000px 500px at 20% -10%, rgba(56,189,248,0.15), transparent), var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 48px 20px;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 64px;
+    }
+
+    h1 {
+      font-size: 2.6rem;
+      margin: 0 0 6px 0;
+      letter-spacing: -0.03em;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      max-width: 650px;
+    }
+
+    .toggle {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 8px 14px;
+      border-radius: 999px;
+      cursor: pointer;
+    }
+
+    section { margin-bottom: 48px; }
+
+    .card {
+      background: linear-gradient(180deg, var(--panel), transparent);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 28px;
+    }
+
+    .fade {
+      opacity: 0;
+      transform: translateY(16px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .fade.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .tags span {
+      display: inline-block;
+      padding: 6px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      margin: 6px 8px 0 0;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+
+    .repo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 18px;
+    }
+
+    .repo {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .repo:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    }
+
+    .repo h3 {
+      margin: 0 0 8px 0;
+      font-size: 1.05rem;
+    }
+
+    .repo p {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0 0 10px 0;
+    }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      margin-top: 80px;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 700px) {
+      header { flex-direction: column; align-items: flex-start; }
+      h1 { font-size: 2.1rem; }
+    }
+  </style>
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ankit Chaubey",
+    "url": "https://ankit-chaubey.github.io/",
+    "image": "https://avatars.githubusercontent.com/u/85471319?v=4",
+    "sameAs": [
+      "https://github.com/ankit-chaubey",
+      "https://t.me/ankify"
+    ],
+    "jobTitle": "Student",
+    "description": "Curiosity-driven learner exploring systems, APIs, automation, and low-level tooling."
+  }
+  </script>
+
+</head>
+<body>
+  <main class="container">
+
+    <!-- ABOUT -->
+    <header class="fade">
+      <div>
+        <h1>Ankit Chaubey</h1>
+        <p class="subtitle">
+          Curiosity-driven learner exploring systems, APIs, automation, and low-level tooling.
+          Programming is a tool for understanding — not the destination.
+        </p>
+      </div>
+      <button class="toggle" id="themeToggle">Toggle theme</button>
+    </header>
+
+    <section class="card fade">
+      <h2>About Me</h2>
+      <div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap">
+        <img id="ghAvatar" src="" alt="GitHub avatar" style="width:96px;height:96px;border-radius:50%;border:1px solid var(--border)" />
+        <div>
+          <h3 id="ghName" style="margin:0"></h3>
+          <p id="ghBio" style="margin:6px 0;color:var(--muted)"></p>
+          <a id="ghLink" href="#" target="_blank">View GitHub Profile →</a>
+        </div>
+      </div>
+      <p style="margin-top:16px">
+        I’m a college student from India who enjoys understanding how systems work by building small tools,
+        experimenting with APIs, and automating workflows. My interest in programming is driven by curiosity,
+        not career pressure.
+      </p>
+    </section>
+
+    <section class="card fade">
+      <h2>What I Use</h2>
+      <div class="tags">
+        <span>Python</span><span>Go</span><span>C / C++</span><span>Linux</span><span>Git</span>
+        <span>CI / Automation</span><span>CLI Tools</span><span>Web</span>
+      </div>
+    </section>
+
+    <section class="card fade">
+      <h2>Contact</h2>
+      <p>
+        <a href="https://github.com/ankit-chaubey" target="_blank">GitHub</a> ·
+        <a href="https://t.me/ankify" target="_blank">Telegram</a> ·
+        <a href="mailto:m.ankitchaubey@gmail.com">Email</a>
+      </p>
+    </section>
+
+    <!-- PERSONAL PROFILE -->
+    <section class="fade">
+      <h2>GitHub Profile</h2>
+      <div class="repo-grid" id="repos">Loading repositories…</div>
+    </section>
+
+    <!-- ORGANIZATIONS -->
+    <section class="fade">
+      <h2>Organizations</h2>
+      <div class="repo-grid" id="orgs">Loading organizations…</div>
+    </section>
+
+    <section class="card fade">
+      <h2>More</h2>
+      <p>
+        This website automatically indexes my public work from GitHub. Only source repositories are shown
+        (forks are excluded), and special cases are handled intentionally. Built by @ankit-chaubey
+      </p>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Ankit Chaubey · Built with simplicity
+    </footer>
+
+  </main>
+
+  <script>
+    // -------- THEME --------
+    const body = document.body;
+    const toggle = document.getElementById('themeToggle');
+    const saved = localStorage.getItem('theme');
+    if (saved === 'light') body.classList.add('light');
+
+    toggle.onclick = () => {
+      body.classList.toggle('light');
+      localStorage.setItem('theme', body.classList.contains('light') ? 'light' : 'dark');
+    };
+
+    // -------- FADE IN --------
+    window.addEventListener('load', () => {
+      document.querySelectorAll('.fade').forEach(el => el.classList.add('show'));
+    });
+
+    // -------- GITHUB PROFILE --------
+    fetch('https://api.github.com/users/ankit-chaubey')
+      .then(r => r.json())
+      .then(u => {
+        document.getElementById('ghAvatar').src = u.avatar_url;
+        document.getElementById('ghName').textContent = u.name || u.login;
+        document.getElementById('ghBio').textContent = u.bio || '';
+        document.getElementById('ghLink').href = u.html_url;
+      });
+
+    // -------- USER REPOSITORIES (SOURCE ONLY) --------
+    const repoContainer = document.getElementById('repos');
+
+    fetch('https://api.github.com/users/ankit-chaubey/repos?sort=updated&per_page=100')
+      .then(res => res.json())
+      .then(repos => {
+        repoContainer.innerHTML = '';
+        repos
+          .filter(r => !r.fork)
+          .forEach(repo => {
+            const pageLink = repo.homepage
+              ? `<a href="${repo.homepage}" target="_blank">Page</a> · `
+              : '';
+
+            const div = document.createElement('div');
+            div.className = 'repo';
+            div.innerHTML = `
+              <h3><a href="${repo.html_url}" target="_blank">${repo.name}</a></h3>
+              <p>${repo.description || 'No description provided.'}</p>
+              <small>${pageLink}${repo.language || ''} · ★ ${repo.stargazers_count}</small>
+            `;
+            repoContainer.appendChild(div);
+          });
+      })
+      .catch(() => {
+        repoContainer.textContent = 'Unable to load repositories.';
+      });
+
+    // -------- ORGANIZATIONS (SOURCE ONLY, WITH EXCEPTIONS) --------
+    const orgContainer = document.getElementById('orgs');
+
+    // Repositories to exclude in future if needed (keep empty unless required)
+    const EXCLUDED_REPOS = [];
+
+    fetch('https://api.github.com/users/ankit-chaubey/orgs')
+      .then(res => res.json())
+      .then(orgs => {
+        orgContainer.innerHTML = '';
+
+        orgs.forEach(org => {
+          const orgHeader = document.createElement('div');
+          orgHeader.className = 'repo';
+          orgHeader.innerHTML = `
+            <h3><a href="${org.html_url}" target="_blank">${org.login}</a></h3>
+            <p>${org.description || 'GitHub organization'}</p>
+          `;
+          orgContainer.appendChild(orgHeader);
+
+          fetch(`https://api.github.com/orgs/${org.login}/repos?per_page=100`)
+            .then(r => r.json())
+            .then(repos => {
+              repos
+                // include only source repos, but explicitly allow tgapis/x
+                .filter(r => !r.fork || r.name === 'x')
+                .filter(r => !EXCLUDED_REPOS.includes(r.name))
+                .forEach(repo => {
+                  const div = document.createElement('div');
+                  div.className = 'repo';
+                  div.innerHTML = `
+                    <h3><a href="${repo.html_url}" target="_blank">${repo.name}</a></h3>
+                    <p>${repo.description || 'No description.'}</p>
+                    <small>${repo.language || ''} · ★ ${repo.stargazers_count}</small>
+                  `;
+                  orgContainer.appendChild(div);
+                });
+            });
+        });
+      })
+      .catch(() => {
+        orgContainer.textContent = 'Unable to load organizations.';
+      });
+
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
