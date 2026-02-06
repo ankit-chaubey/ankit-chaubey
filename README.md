@@ -71,7 +71,7 @@ I'm Vasu (nickname), a college student from **India 🇮🇳**.
 ### 💬 Support & Questions
 
 - For questions or discussions, feel free to message me on Telegram: **@ankify**
-- Automated contact bot (optional): **@ankifybot**
+- Automated contact bot (optional): **@ChaubeyBot**
 - For code-related issues, please open a GitHub issue.
 <p align="center">
   <a href="https://t.me/ankify">
