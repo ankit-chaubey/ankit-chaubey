@@ -12,7 +12,7 @@
 
 I'm Vasu (nickname), a college student from **India 🇮🇳**.
 
-- **Currently learning:** Python, Go, C, C++
+- **Currently learning:** Python, Go, C, C++, Rust
 - Curious about systems, APIs, automation, and low-level tooling  
 - I mostly play with code in my free time driven by curiosity, experimentation, and a bit of healthy distraction 😄  
 
@@ -92,11 +92,15 @@ I'm Vasu (nickname), a college student from **India 🇮🇳**.
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-327FC7?style=for-the-badge&logo=githubpages&logoColor=white)
 
 ---
 
