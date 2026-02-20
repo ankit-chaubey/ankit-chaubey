@@ -38,11 +38,11 @@ I'm Vasu (nickname), a college student from **India 🇮🇳**.
 ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Lang & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-chaubey&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankit-chaubey&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-chaubey&show_icons=true&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ankit-chaubey&show_icons=true&theme=tokyonight&layout=compact&exclude_repo=tdlib-termux" />
 </p>
 
 <details>
