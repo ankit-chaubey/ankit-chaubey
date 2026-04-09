@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=800&color=D9BED1&width=620&lines=Hello%2C+I'm+Ankit+Chaubey+—+also+known+as+Vasu;I+enjoy+playing+with+code+out+of+curiosity;APIs+%7C+Automation+%7C+Systems+%7C+Telegram+%7C+Webs" alt="Ankit Chaubey"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=800&color=D9BED1&width=620&lines=Hello%2C+I'm+Ankit+Chaubey++also+known+as+Vasu;I+enjoy+playing+with+code+out+of+curiosity;APIs+%7C+Automation+%7C+Systems+%7C+Telegram+%7C+Webs" alt="Ankit Chaubey"/>
   </a>
 </p>
 
@@ -31,7 +31,7 @@ I'm Vasu (nickname), a college student from **India 🇮🇳**.
 
 > [!NOTE]  
 > My main academic and career focus lies in a different field.  
-> Coding is simply something I enjoy exploring — a by-product of curiosity, not the destination.
+> Coding is simply something I enjoy exploring: a by-product of curiosity, not the destination.
 
 ---
 
