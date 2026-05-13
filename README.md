@@ -2,108 +2,45 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=800&color=D9BED1&width=620&lines=Hello%2C+I'm+Ankit+Chaubey++also+known+as+Vasu;I+enjoy+playing+with+code+out+of+curiosity;APIs+%7C+Automation+%7C+Systems+%7C+Telegram+%7C+Webs" alt="Ankit Chaubey"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4500&pause=800&color=D9BED1&width=620&lines=Hey%2C+I'm+Ankit+Chaubey+(Vasu);I+like+exploring+systems%2C+APIs+and+automation;Coding+out+of+curiosity+and+experimentation" alt="Ankit Chaubey"/>
   </a>
 </p>
 
 ---
 
-## 👋 Hey there! I'm Ankit Chaubey 🎉 <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-chaubey" alt="ankit-chaubey" />
+# 👋🏻 Hello!
 
-I'm Vasu (nickname), a college student from **India 🇮🇳**.
+I'm **Ankit Chaubey** (nick name:vasu), a college student from India 🇮🇳.
 
-- **Currently learning:** Python, Go, C, C++, Rust
-- Curious about systems, APIs, automation, and low-level tooling  
-- I mostly play with code in my free time driven by curiosity, experimentation, and a bit of healthy distraction 😄  
+Most of the time I just play with code because I'm curious how things work internally.  
+Coding for me is more about exploration and experimentation than being the final destination.
 
 ---
 
 ## 🔗 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=telegram)](https://t.me/ankify)
-[![GitHub Page](https://img.shields.io/badge/GitHub-Page-FF5733.svg?style=for-the-badge&logo=github)](https://chaubey.is-a.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-DD0031.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ankitchaubey@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-24292e.svg?style=for-the-badge&logo=gitlab)](https://gitlab.com/ankitchaubey)
+[![Website](https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ankitchaubey.in)
+[![Gmail](https://img.shields.io/badge/Gmail-DD0031.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitchaubey.dev@gmail.com)
+
+---  
+
+> Programming is simply something I genuinely enjoy learning and experimenting with.
 
 ---
 
-### 🧑🏻‍💻 Developer?
-
-> [!NOTE]  
-> My main academic and career focus lies in a different field.  
-> Coding is simply something I enjoy exploring: a by-product of curiosity, not the destination.
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Lang & Contributions
+## 🧑🏻‍💻 Languages & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankit-chaubey&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankit-chaubey&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ankit-chaubey&show_icons=true&theme=tokyonight&layout=compact&exclude_repo=tdlib-termux" />
-</p>
-
-<details>
-  <summary><strong>Show more details</strong></summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-chaubey&theme=github_dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-chaubey&theme=github_dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-chaubey&theme=github_dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ankit-chaubey&theme=flat&no-bg=true&no-frame=true&column=4" />
-  </p>
-</details>
-
----
-
-### 💬 Support & Questions
-
-- For questions or discussions, feel free to message me on Telegram: **@ankify**
-- Automated contact bot: **@ChaubeyBot**
-- For code-related issues, please open a GitHub issue.
-<p align="center">
-  <a href="https://t.me/ankify">
-    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c?style=for-the-badge" alt="Ask Me Anything">
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ankit-chaubey&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-### ⚙️ CI / DevOps & CLI Tooling
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)
-![jq](https://img.shields.io/badge/jq-000000?style=for-the-badge&logo=jq&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-327FC7?style=for-the-badge&logo=githubpages&logoColor=white)
-
----
-
-⭐ *Always learning. Always improving.*
+⭐ Always learning and experimenting.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" />
